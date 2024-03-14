@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FImJuTWzm73V55AYqRfq/LCPhT7u/B+tOc5gVPDMuSbsvpCxfQETzWwiL+q32jX2KLZxUBI1TNSYaYGvV+e2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afan\\Documents\\Projects\\VideoTranscodingBitrateCalculator\\VideoTranscodingBitrateCalculator\\VideoTranscodingBitrateCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
